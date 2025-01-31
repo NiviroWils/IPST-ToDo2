@@ -8,7 +8,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #ffe4e6;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -31,6 +31,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  justify-content: center; /* Центрирование по горизонтали */
+  align-items: center;
 }
 
 h1 {
